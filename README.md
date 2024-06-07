@@ -2,8 +2,6 @@
 
 Passionate on **Full Stack Development** using latest technologies and **Google Cloud Platform (GCP)**.
 
-I'm also a Self-Taught Computer Science enthusiast and studied Accounting at Universitas Gadjah Mada, Indonesia.
-
 You can reach me via email at hasferrr@proton.me or on [Discord](https://discord.com/users/500610677384151051).
 
 ### 💻 Proficient in:
@@ -27,4 +25,4 @@ You can reach me via email at hasferrr@proton.me or on [Discord](https://discord
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-**Check out my projects below!**
+**Also, check out my projects below!**
