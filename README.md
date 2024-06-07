@@ -1,8 +1,8 @@
 ## Hi, I'm Hasferrr 👋
 
-Passionate on **Full Stack Development** using latest technologies and **Google Cloud Platform (GCP)**.
+Welcome to my GitHub profile! I'm passionate on **Full Stack Development** using latest technologies and **Google Cloud Platform (GCP)**.
 
-You can reach me via email at hasferrr@proton.me or on [Discord](https://discord.com/users/500610677384151051).
+You can contact me via email at hasferrr@proton.me or on [Discord](https://discord.com/users/500610677384151051).
 
 ### 💻 Proficient in:
 
