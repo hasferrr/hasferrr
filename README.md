@@ -72,4 +72,4 @@ Here are a few projects I've worked on:
 
 ---
 
-_Also, check out my projects below!_
+_Also, check out my projects!_
