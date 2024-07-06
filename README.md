@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Hasferrr
 
-I am a self-taught Computer Science with a passion for Full Stack Development. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and have experience utilizing cloud solutions, particularly with **Google Cloud Platform (GCP)**.
+I am a self-taught Computer Science with a passion for Full Stack Development. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and have experience utilizing cloud solutions, particularly with **[Google Cloud Platform (GCP)](https://www.credly.com/badges/f575d9ae-96f8-471b-854d-46fb76e2457b)**.
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasbiferdy) -->
 [![Discord: hasferrr](https://img.shields.io/badge/hasferrr-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/500610677384151051)
@@ -29,7 +29,7 @@ I am a self-taught Computer Science with a passion for Full Stack Development. I
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud, Tools, & Technologies** </br>
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/badges/f575d9ae-96f8-471b-854d-46fb76e2457b)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
