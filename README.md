@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Hasferrr
 
-I am a self-taught Computer Science with a passion for Full Stack Development. I specialize in the **MERN stack** (MongoDB, Express.js, React, Node.js) and have experience utilizing cloud solutions, particularly with **[Google Cloud Platform (GCP)](https://www.credly.com/badges/f575d9ae-96f8-471b-854d-46fb76e2457b)**.
+I am a self-taught Computer Science with a passion for Full Stack Development, specialize in the **MERN stack** and have experience utilizing cloud solutions, particularly with **[Google Cloud Platform (GCP)](https://www.credly.com/badges/f575d9ae-96f8-471b-854d-46fb76e2457b)**.
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasbiferdy) -->
 [![Discord: hasferrr](https://img.shields.io/badge/hasferrr-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/500610677384151051)
