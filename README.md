@@ -10,9 +10,21 @@ A self-taught Computer Science and Full Stack Development, specializing in the M
 
 ### 💻 Tech
 
-![Tech](https://skillicons.dev/icons?i=c,ts,js,python,react,redux,html,css,tailwind)
+**Languages**
 
-![Tech](https://skillicons.dev/icons?i=gcp,docker,nodejs,express,mongodb,mysql,git,jest,cypress)
+![langs](https://skillicons.dev/icons?i=c,ts,js,ruby,python)
+
+**Frontend**
+
+![fe](https://skillicons.dev/icons?i=react,redux,html,css,tailwind)
+
+**Backend & Databases**
+
+![be](https://skillicons.dev/icons?i=nodejs,express,bun,nextjs,flask,mongodb,mysql)
+
+**Cloud, Tools, & Others**
+
+![other](https://skillicons.dev/icons?i=gcp,docker,git,jest,cypress,postman)
 
 <!-- - **Languages:** C, TypeScript, JavaScript, Python
 - **Frontend:** React, Redux, Next.js, HTML5, CSS3, TailwindCSS
@@ -45,10 +57,6 @@ Here are a few projects I've worked on:
 
 ### 🔥 Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/hasferrr?ext=contest)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hasferrr?ext=contest)](https://leetcode.com/u/hasferrr)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasferrr&layout=compact&theme=radical&hide=racket,html,css)
-
-<!-- ---
-
-_Also, check out my projects!_ -->
