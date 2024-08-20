@@ -24,7 +24,7 @@ A self-taught Computer Science and Full Stack Development, specializing in the M
 
 **Cloud, Tools, & Others**
 
-![other](https://skillicons.dev/icons?i=gcp,docker,git,jest,cypress,postman)
+![other](https://skillicons.dev/icons?i=gcp,docker,git,prisma,jest,cypress,postman)
 
 <!-- - **Languages:** C, TypeScript, JavaScript, Python
 - **Frontend:** React, Redux, Next.js, HTML5, CSS3, TailwindCSS
