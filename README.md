@@ -8,13 +8,8 @@ I am a self-taught Computer Science and Full Stack Developer specializing in the
 [![Discord: hasferrr](https://img.shields.io/badge/hasferrr-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/500610677384151051)
 [![Email: hasferrr@proton.me](https://img.shields.io/badge/hasferrr@proton.me-%23D14836.svg?logo=gmail&logoColor=white)](mailto:hasferrr@proton.me)
 
-<details>
-  <summary>Click to expand</summary>
-
 ### 🔥 Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hasferrr?ext=contest)](https://leetcode.com/u/hasferrr)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasferrr&layout=compact&theme=radical&hide=racket,html,css)
-
-</details>
