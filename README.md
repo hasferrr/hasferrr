@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Hasferrr
+### 👋 Hi there
 
-I am a self-taught Computer Science and Full Stack Developer specializing in the MERN stack and cloud solutions with Google Cloud Platform. I enjoy working on various projects and exploring new technologies.
+**I'm hasferrr** - Learning Computer Science and Full Stack Development, specializing in the MERN stack and cloud solutions using Google Cloud Platform, also enjoy working on various projects and exploring new technologies.
 
 ![](https://skillicons.dev/icons?i=ts,js,python,react,redux,nodejs,express,mongodb,gcp,prisma,docker,html,css)
 
