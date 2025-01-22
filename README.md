@@ -6,7 +6,7 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/username) -->
 [![Discord: hasferrr](https://img.shields.io/badge/hasferrr-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/500610677384151051)
-[![Email: hasferrr@proton.me](https://img.shields.io/badge/hasferrr@proton.me-%23D14836.svg?logo=gmail&logoColor=white)](mailto:hasferrr@proton.me)
+[![Email: hasferrr@proton.me](https://img.shields.io/badge/hasferrr@proton.me-8a6ff7?logo=protonmail&logoColor=white)](mailto:hasferrr@proton.me)
 
 ### 🔥 Stats
 
